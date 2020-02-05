@@ -1,0 +1,9 @@
+/dist
+/client/dist
+/tmp
+/.env
+node_modules
+
+# dependencies
+/node_modules
+**/node_modules
