@@ -7,8 +7,8 @@ Required Tools:
 * Angular cli(https://cli.angular.io/)
 
 **ONLY FOR WINDOWS** \
-(32bit installation) `npm config set script-shell "C:\\Program Files (x86)\\git\\bin\\bash.exe` \
-(64bit installation) `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe`
+(32bit installation) `npm config set script-shell "C:\\Program Files (x86)\\git\\bin\\bash.exe"` \
+(64bit installation) `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"`
 
 ## Step 1:
 Clone the repo and run `npm i`
