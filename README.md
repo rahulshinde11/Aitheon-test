@@ -1,5 +1,15 @@
 # Aitheon-Test
 
+## Step 0: 
+
+Required Tools:
+* Nodejs
+* Angular cli(https://cli.angular.io/)
+
+**ONLY FOR WINDOWS** \
+(32bit installation) `npm config set script-shell "C:\\Program Files (x86)\\git\\bin\\bash.exe` \
+(64bit installation) `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe`
+
 ## Step 1:
 Clone the repo and run `npm i`
 ## Step 2:
@@ -12,7 +22,7 @@ Paste the connection string in `.env` file. example `MONGODB_URI=<Your connectio
 Run the Server using `npm start`
 
 ## Step 6: 
-Install client node_modules using `cd client && npm i`
+In another terminal Install client node_modules using `npm run install:client`
 
 ## Step 7: 
 Run the client using `npm run client:watch`
